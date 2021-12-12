@@ -1,1 +1,2 @@
-# video_chat app being build 
+# A simple chat app
+
